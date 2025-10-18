@@ -67,4 +67,3 @@ git push -u origin your-name
 - Each member must work only in their branch
 - Use clear and short commit messages
 - Don’t try push directly to the main branch
-- Keep your work inside tasks/ or notes.md as possible 
