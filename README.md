@@ -1,1 +1,34 @@
-# WS10_N8N
+# 🤖 n8n AI Automation Workshop
+
+Welcome to the **n8n AI Automation & Agents Workshop** — a collaborative learning project for mastering **AI-powered workflow automation** using **n8n**.
+
+This repository will track the **progress**, **tasks**, and **experiments** of all workshop members throughout the course.
+
+---
+
+## 📘 Course Overview
+
+> “Welcome to the most comprehensive free course on AI automation and AI agents for beginners using n8n.”
+
+This 8+ hour workshop takes you from **complete beginner** to **building and selling real AI-powered automations**, step-by-step — no coding required.
+
+### You’ll Learn:
+- 🌐 What **AI Agents** are and why they matter  
+- ⚙️ How to build workflows in **n8n**  
+- 🔌 Connecting and setting up **APIs** and **HTTP requests**  
+- 🧠 Using **agent memory**, **multi-agent systems**, and **prompting**  
+- 🚀 Building **scalable automations** and **self-hosted systems**  
+- 🌍 Understanding **webhooks**, **MCP servers**, and **hosting options**
+
+By the end of this workshop, you’ll have built **15+ working AI automations** ready for personal use or resale.
+
+---
+
+## 🧭 Repository Guidelines
+
+Each member will work on their **own branch** to keep tasks organized and prevent conflicts.
+
+### 🧑‍💻 Branch Naming Convention
+Create your branch using **your name**:
+```bash
+git checkout -b your-name
