@@ -1,0 +1,15 @@
+# Tasks Folder
+
+This folder is dedicated to all the workshop tasks and progress tracking.
+
+You can upload **any files related to your tasks here**, including:
+- 📄 Text files or reports
+- 📁 Subfolders for organizing specific tasks
+- 🖼️ Screenshots or images
+- 🎓 Certificates or proof of completion
+- 💻 Code snippets or scripts
+
+Please make sure to:
+1. Create a separate folder for each task (e.g., `task-1`, `task-2`).
+2. Add a short description or note inside each folder about what it contains.
+3. Keep file names clear and meaningful.
