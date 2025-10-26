@@ -67,3 +67,77 @@ git push -u origin your-name
 - Each member must work only in their branch
 - Use clear and short commit messages
 - Don’t try push directly to the main branch
+
+<br>
+
+## 🧱─────────────────────────────────────────────── 
+
+<br><br><br>
+
+# 📬 N8N Workshop Task 1 — Gmail AI Agent Workflow
+
+Welcome to the **N8N Workshop** challenge!  
+In this task, participants will build a workflow that automatically replies to Gmail messages related to **software engineering** using **AI Agents**, **Pinecone**, and **Google Drive**.
+
+---
+
+## 🧠 Overview
+
+This task will test your ability to:
+- Build and connect an **AI-powered Gmail responder** workflow.  
+- Use **Pinecone** for knowledge base retrieval.  
+- Integrate **Google Drive** for managing your knowledge base data.  
+- Configure and debug nodes like **AI Agent**, **Classifier**, and **Vector Store**.
+
+You will receive:
+- A **Knowledge Base** (for the AI Agent)
+- A **System Message** (to guide your AI’s behavior)  
+Both will be provided on the task’s **Notion page** linked below.
+
+---
+
+## ⚙️ Important Notices
+
+1. 🪴 **Each participant must push their work to a separate branch** in the **main repository**.  
+   - The branch name should include your name or your task identifier.  
+   - Any participant who does **not** push their journey to their branch will be marked as **❌ not done yet**.
+
+2. 🧾 **Knowledge Base** and **System Message** will be shared on the Notion details page.
+
+3. 📧 Each participant must **share their Gmail address** in the **WhatsApp group**, so the instructor can send test messages.
+
+4. 🔄 You must **activate your workflow in n8n** and keep it running until confirmation that you’ve completed the task.
+
+5. 📤 The instructor will **send a Gmail message** to each participant.  
+   - Based on your AI Agent’s **email response**, it will be decided whether you **pass ✅** or **need adjustments ⚙️**.
+
+---
+
+## 🧩 Task Objective
+
+- Trigger: **Gmail New Email**  
+- Classify: Identify if the email is related to **software engineering**  
+- Respond: Use the **AI Agent** (with Pinecone knowledge base) to reply politely and informatively  
+- Save or log: Optional — store response details in Google Drive or Sheets  
+
+---
+
+## 📎 Task Details & Resources
+
+🔗 [View Full Task Details on Notion]([https://www.notion.so/your-task-link-here](https://www.notion.so/N8N-Workshop-Task-2954c25293218098be73f31e02b2fb81))
+
+*(The above link contains your Knowledge Base text and System Message template.)*
+
+---
+
+## 🧾 Submission Reminder
+
+✅ Push your branch →  
+✅ Share your Gmail →  
+✅ Activate your workflow →  
+✅ Wait for the test email →  
+✅ Done!
+
+---
+
+**Good luck, and enjoy building your first AI-powered automation with n8n!** 🚀
