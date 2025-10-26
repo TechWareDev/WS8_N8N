@@ -124,7 +124,7 @@ Both will be provided on the task’s **Notion page** linked below.
 
 ## 📎 Task Details & Resources
 
-🔗 [View Full Task Details on Notion]([https://www.notion.so/your-task-link-here](https://www.notion.so/N8N-Workshop-Task-2954c25293218098be73f31e02b2fb81))
+🔗 [View Full Task Details on Notion](https://www.notion.so/N8N-Workshop-Task-2954c25293218098be73f31e02b2fb81)
 
 *(The above link contains your Knowledge Base text and System Message template.)*
 
